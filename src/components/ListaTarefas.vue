@@ -1,7 +1,7 @@
 <template>
     <BoxMsg>
         <div class="columns">
-            <div class="column is-7">
+            <div class="column is-6">
                 {{tarefa?.descricao || 'Tarefa sem Descrição'}}
             </div>
             <div class="column">
